@@ -6,5 +6,5 @@
 
 
 ## [Introduction to Pandas](https://www.youtube.com/watch?v=2qP_EpoZrPI)
-## [Pandas Series Tutorial](https://www.youtube.com/watch?v=JHpjmvfMieU)
+## [Pandas Series](https://www.youtube.com/watch?v=JHpjmvfMieU)
 
