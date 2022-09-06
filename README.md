@@ -4,7 +4,7 @@
 
 </br> 
 
-## In this repo, you can find notebooks about data analysis with Pandas.
+## In this repo, you can find notebooks about data analysis with Python.
 
 ## [Data Analysis with Pandas](https://www.youtube.com/watch?v=2qP_EpoZrPI)
 ## [Pandas Series](https://www.youtube.com/watch?v=JHpjmvfMieU)
